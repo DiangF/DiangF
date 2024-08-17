@@ -58,11 +58,11 @@
 
 
 ### 📖 Academic contribution
-- <p>&emsp;&emsp; eBoF:Interactive Temporal Correlation Analysis for Ensemble Data Based on Bag-of-Features. IEEE Transactions on Big Data </p>
-- <p>&emsp;&emsp; DRCmpVis: Visual Comparison of Physical Targets in Mobile Diminished and Mixed Reality. IEEE Transactions on Visualization and Computer Graphics (TVCG)</p>
-- <p>&emsp;&emsp; PMM: A Smart Shopping Guider Based on Mobile AR. VINCI2023会议</p>
-- <p>&emsp;&emsp; Constructing immersive toy trial experience in mobile augmented reality </p>
-- <p>&emsp;&emsp; Diminished Reality Techniques for Metaverse Applications: A Perspective From Evaluation </p>
+<p>&emsp;&emsp; eBoF:Interactive Temporal Correlation Analysis for Ensemble Data Based on Bag-of-Features. IEEE Transactions on Big Data </p>
+<p>&emsp;&emsp; DRCmpVis: Visual Comparison of Physical Targets in Mobile Diminished and Mixed Reality. IEEE Transactions on Visualization and Computer Graphics (TVCG)</p>
+<p>&emsp;&emsp; PMM: A Smart Shopping Guider Based on Mobile AR. VINCI 2023</p>
+<p>&emsp;&emsp; Constructing immersive toy trial experience in mobile augmented reality. </p>
+<p>&emsp;&emsp; Diminished Reality Techniques for Metaverse Applications: A Perspective From Evaluation. </p>
 
 ### 🏢 Work Experience
 
