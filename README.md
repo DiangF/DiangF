@@ -78,11 +78,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35193035/' target='_blank'>读过认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
-* <a href='https://book.douban.com/subject/27040433/' target='_blank'>最近在读极简主义</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='https://book.douban.com/subject/35193035/' target='_blank'>读过平凡的世界</a> 🌟🌟🌟🌟🌟 力荐- 2024-08-17
+* <a href='https://book.douban.com/subject/27040433/' target='_blank'>最近在看斗破苍穹</a> 🌟🌟🌟🌟🌟 力荐- 2024-08-17
+* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2024-08-17
+* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过钢铁是怎样炼成的</a> 🌟🌟🌟🌟🌟 力荐- 2024-08-17
+17* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过陪伴是最长情的告白</a> 🌟🌟🌟🌟🌟 力荐- 2024-08-17
 <!-- END_SECTION:douban -->
 
 </td></tr>
